@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Not much to see here as I mostly work on proprietary software:
+C++, C#, Python, MEAN stack, Android native, sentiment analysis and trading signal on K8s, HPC code in finite element exterior calculus... you name it.
+
+But you can't see it.
+
+### ... Bye 👋
+
 <!--
 **tinkei/tinkei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
