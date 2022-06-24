@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Not much to see here as I mostly work on proprietary software:
-MEAN stack, Android native, sentiment analysis and trading signal deployed to K8s, HPC code in finite element exterior calculus... you name it.
+MEAN stack, Android native, sentiment analysis and trading signal deployed to K8s, [HPC code](https://clapp.pages.mpcdf.de/hylife/) in [finite element exterior calculus](https://spossann.pages.mpcdf.de/gvec_to_python/)... you name it.
 
 But you can't see it.
 
